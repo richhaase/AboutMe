@@ -2,7 +2,7 @@
 
 ## Guiding Principles
 
-(Me): Hire great people, and get out of their way.
+(Me): Hire great people, and get out of their way. \
 (You): Get your work done, and don’t be an jerk.
 
 ## In summary, my job is to:
