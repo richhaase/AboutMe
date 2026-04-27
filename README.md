@@ -47,7 +47,3 @@ I ask the people I support to:
 ## References
 
 * [`docs/leadership_philosophy.md`](docs/leadership_philosophy.md): leadership philosophy.
-
-## Skills
-
-* [`.agents/skills/public-content-interview/SKILL.md`](.agents/skills/public-content-interview/SKILL.md): skills I use for creating/updating content.
