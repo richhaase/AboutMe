@@ -1,15 +1,3 @@
----
-title: About Rich Haase
-authorship: human-ai-coauthored
-status: canonical-public-entrypoint
-human_author: Rich Haase
-ai_role: drafting, organization, formatting
-source_references:
-  - docs/references/leadership_philosophy.md
-repo_skills:
-  - .agents/skills/public-content-interview/SKILL.md
----
-
 # About Rich Haase
 
 This repository is a public AboutMe and working-with-me guide. It is meant for anyone who wants useful context about how I think about leadership, collaboration, and support.

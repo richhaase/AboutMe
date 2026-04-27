@@ -1,12 +1,6 @@
 ---
 name: public-content-interview
 description: Use when creating or updating public content in this AboutMe repository, especially summaries of Rich's working style, leadership philosophy, preferences, or other statements that represent Rich to readers.
-authorship: human-ai-coauthored
-status: repo-skill
-human_author: Rich Haase
-ai_role: drafting, organization, formatting
-source_references:
-  - docs/references/leadership_philosophy.md
 ---
 
 # Public Content Interview
@@ -23,7 +17,7 @@ Use this skill before creating or updating public content in this repository. Pu
 * Do not infer biographical facts, credentials, experience, employment history, contact details, or availability.
 * Separate direct source material from co-authored summaries.
 * Preserve the body of human-written references unless Rich explicitly approves edits.
-* Use Markdown and YAML frontmatter for provenance.
+* Use readable Markdown sections or notes for provenance; do not add YAML frontmatter to public content.
 * Make uncertainty visible instead of smoothing it over.
 
 ## Questions
@@ -46,7 +40,7 @@ Start with the smallest useful set:
 2. Identify whether the update changes source material, summary material, or both.
 3. Interview Rich using the smallest useful question set.
 4. Draft the change with conservative claims.
-5. Label authorship and AI involvement in frontmatter.
+5. Label authorship and AI involvement in readable Markdown prose.
 6. Link to source references instead of duplicating long source material.
 7. Review for invented facts, audience confusion, and overstatement.
 8. Verify that the changed files still make sense to a first-time reader.
@@ -55,9 +49,9 @@ Start with the smallest useful set:
 
 Before finishing an update, confirm:
 
-* each touched Markdown file has frontmatter
-* `authorship` is accurate
-* `ai_role` is present when AI helped draft, organize, or format the text
+* public content does not use YAML frontmatter
+* authorship is stated accurately in readable prose
+* AI involvement is stated when AI helped draft, organize, or format the text
 * source references point to the documents that support the public claims
 * human-written source material remains distinguishable from co-authored summaries
 * no JSON file was introduced as a replacement for readable Markdown guidance

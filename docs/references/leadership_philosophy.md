@@ -1,11 +1,3 @@
----
-title: Leadership Philosophy
-authorship: human-written
-status: canonical-reference
-created_by: Rich Haase
-ai_role: none
----
-
 # Leadership Philosophy
 
 ## Guiding Principles
