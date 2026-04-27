@@ -36,7 +36,7 @@ Start with the smallest useful set:
 
 ## Process
 
-1. Read the existing `README.md` and relevant files under `docs/references/`.
+1. Read the existing `README.md` and relevant files under `docs/`.
 2. Identify whether the update changes source material, summary material, or both.
 3. Interview Rich using the smallest useful question set.
 4. Draft the change with conservative claims.

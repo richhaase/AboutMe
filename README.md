@@ -2,11 +2,7 @@
 
 This repository is a public AboutMe and working-with-me guide. It is meant for anyone who wants useful context about how I think about leadership, collaboration, and support.
 
-## Provenance
-
-This README is co-authored with AI. The source ideas come from Rich Haase; AI assisted with drafting, organization, and formatting.
-
-Human-written source material is kept in [`docs/references/`](docs/references/). Co-authored summaries should point back to those references instead of replacing them.
+This repo was co-authored with AI.
 
 ## What This Is
 
@@ -50,7 +46,7 @@ I ask the people I support to:
 
 ## References
 
-* [`docs/references/leadership_philosophy.md`](docs/references/leadership_philosophy.md): human-written leadership philosophy.
+* [`docs/leadership_philosophy.md`](docs/leadership_philosophy.md): leadership philosophy.
 
 ## Skills
 
