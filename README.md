@@ -50,4 +50,4 @@ I ask the people I support to:
 
 ## Skills
 
-* [`.agents/skills/public-content-interview/SKILL.md`](.agents/skills/public-content-interview/SKILL.md): agent skill for interviewing me before creating or updating public content in this repository.
+* [`.agents/skills/public-content-interview/SKILL.md`](.agents/skills/public-content-interview/SKILL.md): skills I use for creating/updating content.
