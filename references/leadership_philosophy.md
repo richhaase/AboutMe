@@ -1,3 +1,11 @@
+---
+title: Leadership Philosophy
+authorship: human-written
+status: canonical-reference
+created_by: Rich Haase
+ai_role: none
+---
+
 # Leadership Philosophy
 
 ## Guiding Principles
@@ -44,4 +52,3 @@
 * Do you have a best friend at work?
 * In the last six months, has someone at work (should be me, or their manager for a skip level) talked to you about your progress?
 * Have you had opportunities at work to learn and grow in the last year?
-
