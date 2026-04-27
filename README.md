@@ -7,7 +7,7 @@ ai_role: drafting, organization, formatting
 source_references:
   - docs/references/leadership_philosophy.md
 repo_skills:
-  - skills/public-content-interview/SKILL.md
+  - .agents/skills/public-content-interview/SKILL.md
 ---
 
 # About Rich Haase
@@ -66,4 +66,4 @@ I ask the people I support to:
 
 ## Skills
 
-* [`skills/public-content-interview/SKILL.md`](skills/public-content-interview/SKILL.md): workflow for interviewing me before creating or updating public content in this repository.
+* [`.agents/skills/public-content-interview/SKILL.md`](.agents/skills/public-content-interview/SKILL.md): agent skill for interviewing me before creating or updating public content in this repository.

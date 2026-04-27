@@ -6,7 +6,7 @@ status: repo-skill
 human_author: Rich Haase
 ai_role: drafting, organization, formatting
 source_references:
-  - ../../docs/references/leadership_philosophy.md
+  - docs/references/leadership_philosophy.md
 ---
 
 # Public Content Interview
