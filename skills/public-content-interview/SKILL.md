@@ -1,29 +1,21 @@
 ---
-title: Public Content Interview Workflow
+name: public-content-interview
+description: Use when creating or updating public content in this AboutMe repository, especially summaries of Rich's working style, leadership philosophy, preferences, or other statements that represent Rich to readers.
 authorship: human-ai-coauthored
-status: reference-workflow
+status: repo-skill
 human_author: Rich Haase
 ai_role: drafting, organization, formatting
 source_references:
-  - references/leadership_philosophy.md
+  - ../../docs/references/leadership_philosophy.md
 ---
 
-# Public Content Interview Workflow
+# Public Content Interview
 
 ## Purpose
 
-Use this workflow when creating or updating public content in this repository. The goal is to keep public statements accurate, grounded in Rich's own words, and clear about AI collaboration.
+Use this skill before creating or updating public content in this repository. Public content should be accurate, grounded in Rich's own words, and clear about AI collaboration.
 
-## When To Use This
-
-Use this before changing public-facing content, including:
-
-* the main `README.md`
-* source references under `references/`
-* summaries of Rich's values, working style, leadership philosophy, or preferences
-* any new document intended to represent Rich to other people, organizations, or software systems
-
-## Interview Rules
+## Rules
 
 * Interview Rich before adding new claims.
 * Ask no more than three independent questions at a time.
@@ -34,9 +26,9 @@ Use this before changing public-facing content, including:
 * Use Markdown and YAML frontmatter for provenance.
 * Make uncertainty visible instead of smoothing it over.
 
-## Core Questions
+## Questions
 
-Start with the smallest set that fits the update:
+Start with the smallest useful set:
 
 * What should this content help a reader understand or do?
 * Who is the likely reader?
@@ -48,9 +40,9 @@ Start with the smallest set that fits the update:
 * Are there any words, claims, or framings to avoid?
 * Should this be marked human-written, AI-written, or human-AI coauthored?
 
-## Update Process
+## Process
 
-1. Read the existing `README.md` and relevant files under `references/`.
+1. Read the existing `README.md` and relevant files under `docs/references/`.
 2. Identify whether the update changes source material, summary material, or both.
 3. Interview Rich using the smallest useful question set.
 4. Draft the change with conservative claims.

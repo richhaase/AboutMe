@@ -5,8 +5,9 @@ status: canonical-public-entrypoint
 human_author: Rich Haase
 ai_role: drafting, organization, formatting
 source_references:
-  - references/leadership_philosophy.md
-  - references/public_content_interview.md
+  - docs/references/leadership_philosophy.md
+repo_skills:
+  - skills/public-content-interview/SKILL.md
 ---
 
 # About Rich Haase
@@ -17,7 +18,7 @@ This repository is a public AboutMe and working-with-me guide. It is meant for a
 
 This README is co-authored with AI. The source ideas come from Rich Haase; AI assisted with drafting, organization, and formatting.
 
-Human-written source material is kept in [`references/`](references/). Co-authored summaries should point back to those references instead of replacing them.
+Human-written source material is kept in [`docs/references/`](docs/references/). Co-authored summaries should point back to those references instead of replacing them.
 
 ## What This Is
 
@@ -61,5 +62,8 @@ I ask the people I support to:
 
 ## References
 
-* [`references/leadership_philosophy.md`](references/leadership_philosophy.md): human-written leadership philosophy.
-* [`references/public_content_interview.md`](references/public_content_interview.md): workflow for interviewing me before creating or updating public content in this repository.
+* [`docs/references/leadership_philosophy.md`](docs/references/leadership_philosophy.md): human-written leadership philosophy.
+
+## Skills
+
+* [`skills/public-content-interview/SKILL.md`](skills/public-content-interview/SKILL.md): workflow for interviewing me before creating or updating public content in this repository.
